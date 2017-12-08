@@ -1,0 +1,72 @@
+body{
+	font-size: 16px;
+	color: black;
+	background-color: white;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar{
+	background-color: black;
+	border-radius:0;
+	border: 0;
+}
+
+.navHeader h1{
+	color: white;
+	font-weight: bold;
+	font-size: 35px;
+	line-height: 0.35;
+}
+
+#nav-list a{
+	color: white;
+	text-align: center;
+}
+
+#nav-list a:hover{
+	font-size: 1.15em;
+}
+
+h2{
+	font-weight: bold;
+}
+
+#chickenCon{
+	margin: 30px;
+	background-color: orange;
+	padding:20px;
+}
+
+#beefCon{
+	margin: 30px;
+	background-color: brown;
+	padding:20px;
+}
+
+#sushiCon{
+	margin: 30px;
+	background-color: pink;
+	padding:20px
+}
+
+i{
+	color: #219e8f;
+}
+
+.panel-footer {
+	background-color: #333;
+	color: white;
+	margin-top: 30px;
+	border-radius:0;
+}
+
+.backToTop {
+	float: right;
+	border: 2px solid #219e8f;
+	padding:22px 25px 22px 25px;
+	border-radius: 50%;
+}
+
+.backToTop:hover{
+	background-color:#ccc;
+}
